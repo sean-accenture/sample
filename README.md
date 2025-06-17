@@ -10,7 +10,7 @@
 link
 https://github.com
 image
-https://dynamicmedia.accenture.com/is/image/accenture/Inudstrial-Equipment-Bottling-Plant.webp
+https://example.com/logo.png
 
 - Bullet list item
 - Another item
