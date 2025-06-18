@@ -7,10 +7,7 @@
 ~~Strikethrough~~  
 > Blockquote
 
-link
 https://github.com
-image
-https://example.com/logo.png
 
 - Bullet list item
 - Another item
